@@ -61,8 +61,6 @@ Potential uses for blockchain in accouting and audit:
 * Development of "smart contracts";
 * Registry and inventory system for any asset, ranging from raw materials to intellectual property
 
-
-
 # Companies using Blockchain 
 https://www.lendingrobot.com/#/
 
@@ -76,6 +74,9 @@ https://www.youtube.com/watch?v=mdbO7ZSc4B4<BR>
 
 How the blockchain will radically transform the economy | Bettina Warburg<BR>
 https://www.youtube.com/watch?v=RplnSVTzvnU<BR>
+  
+Exploring Blockchain business use cases & how Microsoft Azure enables Blockchain solutions<BR>
+https://www.youtube.com/watch?v=YJ7LaN0yGTg&t=29s<BR>  
 
 # Research Labs
 MIT<BR>
