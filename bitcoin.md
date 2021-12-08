@@ -35,5 +35,10 @@ https://en.wikipedia.org/wiki/Satoshi_Nakamoto<BR>
 
 Gavin Andresen<BR>
 https://es.wikipedia.org/wiki/Gavin_Andresen<BR>
+http://gavinandresen.ninja// <BR>
+https://twitter.com/gavinandresen <BR>
+http://gavinthink.blogspot.com/ <BR>  
+  
+  
 
 
